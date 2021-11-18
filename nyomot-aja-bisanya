@@ -37,7 +37,13 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4
 #EXTINF:-1 tvg-logo=""group-title="DDT_62_VSN",INEWS P
 https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-mp4a_96000=1.m3u8
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="DDT_HND_0uT",DISNEP CHANNEL
+#EXTINF:-1 tvg-logo=""group-title="DDT_HND_0uT",Premix Ball 1
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_HND_0uT",Premix Ball 2
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_HND_0uT",Premix Ball 3
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_HND_0uT",DSNY CHANNEL
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DDT_HND_0uT",DSNY HD INTERNATIONAL
