@@ -47,6 +47,272 @@ http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 http://112.15.230.55/PLTV/88888888/224/3221230734/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDT_HND_0uT" ,BOLA ASIA 2
 http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Animax HDHD
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Animax Japan (Viet Subs)HD
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",AnimaxHD
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Arirang Korea
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",ArirangHD
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Astro AOD
+http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Astro IQIYI
+http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Astro Prima
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Astro Ria
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Astro Warna
+http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Astro WWE [HEVC]
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Astroᴴᴰ
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Astro
+http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",AXN
+http://50.7.61.148:30080/Entry/axn
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",BBC 1
+http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",BBC 2
+http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",BBC NEWS
+http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",BBCWorldNews
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Bein sport 5
+http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Bernama TV
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Bloomberg Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Bloomberg US
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Canal Macau (720p)
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Canal Macau (720p)
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",CCTV5+39
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",CCTV5+117
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",CCTV5-39
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",CCTV5-39-1
+http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",CelestialMuvis
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",CGNTV JapanHD
+http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Channel News Asia
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",China tv1
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",China tv2
+http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",CNBC 18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Cnex
+http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",CNN
+http://218.202.220.2:5000/nn_live.ts?id=CNN
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",CNN
+http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",CN
+http://125.227.210.37:16671/VideoInput/play.ts
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",DaAi
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Drama Sangat
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",ELEVEN1(soccer)
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",ESPN (720p)
+https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",FashionTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",FashionTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",FashionTV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",FOX頻道
+http://125.227.210.37:13498/VideoInput/play.ts
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",FRANCE
+http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",HBO
+http://50.7.61.148:30080/Entry/hbo
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",HBO
+http://125.227.210.37:16027/VideoInput/play.ts
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",HBOHD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",HKC
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",HKC
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",HKC
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",JET
+http://50.7.61.147:30080/Entry/jet
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",KBC(SBS )
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",KBS World50
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",KCTV 광주 CH05HD
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Maah TV
+http://51.210.199.33/hls/stream.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",MAVlife
+http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",momo
+http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",MTNHD
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",MTVBiggestPop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",MTVBlockParty
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",MTVSpankinNew
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",MTVWMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",NASA Media Channel
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",NASA Public Channel
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",NAT GEO wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Naura HD
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",NBS Korea Agricultural BroadcastingHD
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",New Japan Pro Wrestling WorldHD
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",NHK
+http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",NHK
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",NHK
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Nippon TV News24 Japan
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",now SPORTS PRIME
+http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Now Sports Prime 630
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Now331
+https://api.leonardpark.dev/live/now/331
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",NTV 7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Oh!K hd
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",RFA 1
+https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",RFI 
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",RTM Sports 
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",SET三立台湾
+http://50.7.61.148:30080/Entry/settw-
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",SkyNews
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",SKYnews
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Sony One50
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",SPORTS1
+https://95-213-224-183.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Stadium UFC
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TDM Info. Macau (720p)
+http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TDM Macau (720p)
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TDM Macau Satelite (720p)
+http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TJB SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TLC
+http://50.7.61.147:30080/Entry/tlc
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TV5monde
+http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TVB 
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TVBL
+https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TVBS
+http://50.7.61.148:30080/Entry/tvbs
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TVBS HD
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TVBS
+http://50.7.61.148:30080/Entry/tvbsnews
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TVB
+http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TVIKIM
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",TVN HD
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",ViuTV
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",ViuTVsix
+http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDT_HND_0uT",DSNY CHANNEL
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 
