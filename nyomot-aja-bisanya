@@ -163,6 +163,320 @@ http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1 group-title="IPTV",CGTNDOCUMENTARY
 http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",ASSP HD
+https://dik.si/SEastrosportHD?shareext.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",ASSP2 HD
+https://dik.si/SEastroSport2HD?shareext.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",ASSP3 HD
+https://dik.si/SEastroSport3HD?shareext.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",ASSP4 HD
+https://dik.si/SEastroSport4HD?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",ASSP1
+https://dik.si/SEassp1?SHAREEXT.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",ASSP2
+https://dik.si/SEassp2?SHAREEXT.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",ASSP3
+https://dik.si/SEassp3?SHAREEXT.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",ASSP4
+https://dik.si/SEassp4?SHAREEXT.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",AstroSport5(A)
+https://dik.si/SEastroSport5?SHAREEXT.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",AstroSport5(B)
+https://dik.si/SEassp5MY?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Bein1(id)
+https://dik.si/SEbein1?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Bein2(id)
+https://dik.si/SEbein2?SHAREEXT.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",TVRI SPORTS
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",ZQ SPORTS
+https://six1.zqprem.com/zqscore/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",CHAMPIONTV1(dec=native)
+https://dik.si/SEchampiontv1?shareext.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",CHAMPIONTV2(dec=native)
+https://dik.si/SEchampiontv2?shareext.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",CHAMPIONTV3(dec=native)
+https://dik.si/SEchampiontv3?shareext.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",USEESPORT1(dec=native)
+https://dik.si/SEuseesports?shareext.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",USEESPORT2(dec=native)
+https://dik.si/SEuseesport2?SHAREEXT.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",BeinLiga1
+http://203.159.95.172:8081/live/bein01/chunks.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",BeinLiga2
+http://203.159.95.172:8081/live/bein02/chunks.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Wwe Network
+https://dik.si/SEwwe
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Nba Hd
+https://dik.si/SEnbaHD
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Golf Ch
+https://dik.si/SEgolfch
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Fight Sports
+https://dik.si/SEfsport
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Fight Box
+https://dik.si/SEfbox
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Box Nation
+https://dik.si/SEboxnation
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",RCTI +
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",MNCTV
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",GTV
+https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",INEWS
+https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",TRANS7
+https://goldenlivektv.com/Live_TV/Channel_Trans7.m3u8
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",TRANSTV
+https://goldenlivektv.com/Live_TV/Channel_Transtv.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Tvri
+https://dik.si/SEtvri
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Tv One
+https://dik.si/SEtvone
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",MetroTv
+https://dik.si/SEmetro
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",DW
+https://dik.si/SEedw
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Edukasi
+https://dik.si/SEedukasi
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Smitsonian
+https://dik.si/SEsmitso
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",R.Terampil
+https://dik.si/SErtrampil
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",AnimalPlanet
+https://dik.si/SEaplanet
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",CitraDangdut
+https://dik.si/SEcdangdut
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",CitraDrama
+https://dik.si/SEcdrama
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Celesbebies
+https://dik.si/SEcbebies
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",My Kids
+https://dik.si/SEmykids
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",DuckTv
+https://dik.si/SEducktv
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Nicktoon
+https://dik.si/SEnicktoon
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",K Drama
+https://dik.si/SEkdrama
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",BabyFirst
+https://dik.si/SEbbfirst
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Thrill
+https://dik.si/SEthrill
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",StarWorld
+https://dik.si/SEstrwrd
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",StarChinaMovieLegend
+https://dik.si/SEschmlegend
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",StarChinaMovie
+https://dik.si/SEStchmovie
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Galaxy
+https://dik.si/ShareExtglx?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",GalaxyPREMIUM
+https://dik.si/SEgprem?SHAREEXT.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",RockXtream
+https://dik.si/ShareExtRx?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",RockEntertainmend
+https://dik.si/ShareExtRe?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Hits
+https://dik.si/ShareExthits?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",HitsMovie
+https://dik.si/ShareExtHmov?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Axn
+https://dik.si/ShareExtaxn?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Kix
+https://dik.si/ShareExtkix?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",MyCinemaAsia(dec=native)
+https://dik.si/ShareExtmyca?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",MyFamilyChanel(dec=native)
+https://dik.si/ShareExtmyfc?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",MyCinema(dec=native)
+http://rr.dens.tv/h/h90/S4/mnf.m3u8
+https://dik.si/ShareExtmycn?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Atv
+https://dik.si/ShareExtatv?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Paramount
+https://dik.si/SEparamount?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",S One
+https://dik.si/SEsone?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Tvn
+https://dik.si/SEtvn?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",TvnMovie
+https://dik.si/SEtvnmov?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",ChineseDrama
+https://dik.si/SEchdrma?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Warner
+https://dik.si/SEwarner?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",CinemaWorld
+https://dik.si/SEcnmwld?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",CelestialMovie
+https://dik.si/SEclstl?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",WakuWaku
+https://dik.si/SEwaku?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",ZeeBioskop(dec=native)
+https://dik.si/SEzbios?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Imc
+https://dik.si/SEimc?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Flik
+https://dik.si/SEflik?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",DuniaLain
+https://dik.si/SEdnln?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Insert
+https://dik.si/SEinsert?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",BioskopIndonesia
+https://dik.si/SEbiosid?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",S Gem
+https://dik.si/SEgem?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Afn
+https://dik.si/SEafn?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",KbsWorld
+https://dik.si/SEkbsw?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",K+
+https://dik.si/SEkplus?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Tlc
+https://dik.si/SEtlc?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Formosa
+https://dik.si/SEformosa?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",KungfuTv
+https://dik.si/SEkugfu?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",NatGeo
+https://dik.si/SEnatgeo?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",History
+https://dik.si/SEhisto?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",DiscoveryChannel
+https://dik.si/SEdsc?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",NatGeoWild
+https://dik.si/SEngwild?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Lingua
+https://dik.si/SElingua?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Aniplus
+https://dik.si/SEanplus?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Animax
+https://dik.si/SEanmax?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Davinci
+https://dik.si/SEdvinci?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",DuniaAnak
+https://dik.si/SEdanak?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Horee
+https://dik.si/SEhoree?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",NickJunior
+https://dik.si/SEnikjr?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",NickledeoN
+https://dik.si/SEnkldeon?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",CartoonNetWork
+https://dik.si/SEctnwokd?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",KompasTv
+https://dik.si/SEkompas?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",BaliTv
+https://dik.si/SEbalitv?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Sctv
+https://dik.si/SEsctv?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",IndosiaR
+https://dik.si/SEindsiar?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Antara
+https://dik.si/SEantara?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Trans7
+https://dik.si/SEtrs7?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",TransTv
+https://dik.si/SEtrntv?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Net.
+https://dik.si/SEnet?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Nusantara
+https://dik.si/SEnusntra?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",DaaiTv
+https://dik.si/SEdaaitv?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Jtv
+https://dik.si/SEjtv?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Rtv
+https://dik.si/SErtv?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Hbo
+https://dik.si/SEhbo?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",HboSignature
+https://dik.si/SEhbosig?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",HboHits
+https://dik.si/SEhbohits?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",HboFamily
+https://dik.si/SEhbofam?shareext.m3u8
+
+#EXTINF:-1 tvg-logo="jusApell"group-title="pressssshhhhhh",Cinemax
+https://dik.si/SEcinemax?shareext.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDT_ASIAN_1",arirang
